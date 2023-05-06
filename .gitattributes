@@ -1,4 +1,4 @@
-#my basic recolour for repos
+#.gitattributes
 *.as linguist-language=angelscript
 *.bat linguist-language=angelscript
 *.cmd linguist-language=angelscript
