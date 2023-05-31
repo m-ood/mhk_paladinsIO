@@ -1,8 +1,0 @@
-{
-	"binds": {
-		"$+~LWin": "clip"
-	},
-	"clip": {
-		"a":"lmao"
-	}
-}
