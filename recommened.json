@@ -2,7 +2,7 @@
 	"binds": {
 		"$+~LWin": "clip"
 	},
-	"clip": [
+	"clip": {
 		"a":"lmao"
-	]
+	}
 }
